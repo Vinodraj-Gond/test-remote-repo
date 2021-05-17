@@ -9,3 +9,4 @@ hello am Vinod
 
 hi how are you
 its for pull
+its for pull and fetch
